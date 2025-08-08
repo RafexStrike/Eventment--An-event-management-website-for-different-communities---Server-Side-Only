@@ -1,4 +1,4 @@
-# FindFolks Server
+# Eventment Server
 
 This is the backend server for the HobbyHub application, a platform designed to help people connect and find others with similar interests.
 
